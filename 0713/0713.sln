@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "继承与对象的生命周期", "继承的生命周期\继承的生命周期.vcxproj", "{1BCDE66F-89D2-4D7F-9BC1-690B02C1D043}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "struct模拟多态", "struct模拟多态\struct模拟多态.vcxproj", "{ABF02CAC-A33A-4318-BDD4-54A3BD566A81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BCDE66F-89D2-4D7F-9BC1-690B02C1D043}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1BCDE66F-89D2-4D7F-9BC1-690B02C1D043}.Debug|Win32.Build.0 = Debug|Win32
+		{1BCDE66F-89D2-4D7F-9BC1-690B02C1D043}.Release|Win32.ActiveCfg = Release|Win32
+		{1BCDE66F-89D2-4D7F-9BC1-690B02C1D043}.Release|Win32.Build.0 = Release|Win32
+		{ABF02CAC-A33A-4318-BDD4-54A3BD566A81}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ABF02CAC-A33A-4318-BDD4-54A3BD566A81}.Debug|Win32.Build.0 = Debug|Win32
+		{ABF02CAC-A33A-4318-BDD4-54A3BD566A81}.Release|Win32.ActiveCfg = Release|Win32
+		{ABF02CAC-A33A-4318-BDD4-54A3BD566A81}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
