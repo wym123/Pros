@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "linklist", "linklist\linkli
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ListNode", "ListNode\ListNode.vcxproj", "{81073BD2-5AAF-45BF-B125-4DA2EE1F78F1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dlist", "Dlist\Dlist.vcxproj", "{31E180B4-9F33-40C6-B677-B1B7DB6A353D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -21,6 +23,10 @@ Global
 		{81073BD2-5AAF-45BF-B125-4DA2EE1F78F1}.Debug|Win32.Build.0 = Debug|Win32
 		{81073BD2-5AAF-45BF-B125-4DA2EE1F78F1}.Release|Win32.ActiveCfg = Release|Win32
 		{81073BD2-5AAF-45BF-B125-4DA2EE1F78F1}.Release|Win32.Build.0 = Release|Win32
+		{31E180B4-9F33-40C6-B677-B1B7DB6A353D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{31E180B4-9F33-40C6-B677-B1B7DB6A353D}.Debug|Win32.Build.0 = Debug|Win32
+		{31E180B4-9F33-40C6-B677-B1B7DB6A353D}.Release|Win32.ActiveCfg = Release|Win32
+		{31E180B4-9F33-40C6-B677-B1B7DB6A353D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
